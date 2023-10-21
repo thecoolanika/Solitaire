@@ -7,11 +7,10 @@ import javax.swing.*;
 /**
  * Solitaire Display displays Solitaire game
  * 
- * @author Anika Pandey with assistance from Ms. Datar
+ * @author Anika Pandey
  * 
  * @version 1/10/23
- * extra credit: foundation to piles, you win message, 
- *              and show three cards in waste
+ * 
  */
 
 public class SolitaireDisplay extends JComponent implements MouseListener

@@ -7,7 +7,7 @@ import java.util.*;
  *          on each other with alternating color in 
  *          descending order
  *      
- * @author Anika Pandey with assistance from Ms. Datar
+ * @author Anika Pandey 
  * 
  * @version 1/10/23
  */
